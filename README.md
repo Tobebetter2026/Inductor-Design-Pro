@@ -1,5 +1,9 @@
 # Inductor Design Pro
 
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20iPadOS%20%7C%20macOS-blue)]()
+[![Offline](https://img.shields.io/badge/offline-local%20workflow-green)]()
+[![App Store](https://img.shields.io/badge/App%20Store-Download-black)](https://apps.apple.com/us/app/inductor-design-pro/id6758878884)
+
 Engineering workflow tool for magnetic component design with Pareto optimization, multi-loss analysis, and offline database support.
 
 <img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/6a170a58-6065-46bf-9f21-ca149b748d96" />
@@ -57,6 +61,19 @@ but:
 ---
 
 ## Main Features
+
+## Key Engineering Capabilities
+
+- AP-method assisted core selection
+- LI²-based toroid optimization
+- Steinmetz / iGSE core-loss estimation
+- AC copper-loss analysis
+- Thermal co-estimation
+- Pareto-front multi-solution comparison
+- Core-winding joint iteration
+- Offline engineering database
+
+---
 
 ### Core × Winding Co-Optimization
 
@@ -202,7 +219,7 @@ Available on the Apple App Store.
 
 ### App Store
 
-[Download on the App Store](https://apps.apple.com/us/app/inductor-design-pro/id6758878884）
+[Download on the App Store](https://apps.apple.com/us/app/inductor-design-pro/id6758878884)
 
 ---
 
