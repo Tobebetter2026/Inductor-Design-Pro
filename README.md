@@ -194,26 +194,6 @@ but rather:
 
 ---
 
-## Screenshots
-
-### Workflow Overview
-
-![Workflow](screenshots/workflow-overview.png)
-
----
-
-### Multi-Solution Pareto Comparison
-
-![Pareto](screenshots/pareto-comparison.png)
-
----
-
-### Database Management
-
-![Database](screenshots/database-management.png)
-
----
-
 ## Availability
 
 Available on the Apple App Store.
@@ -225,8 +205,6 @@ Available on the Apple App Store.
 ### App Store
 
 [Download on the App Store](https://apps.apple.com/us/app/inductor-design-pro/id6758878884）
-
-> Replace this link with your actual App Store URL.
 
 ---
 
