@@ -2,9 +2,7 @@
 
 Engineering workflow tool for magnetic component design with Pareto optimization, multi-loss analysis, and offline database support.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/652fcd57-b9da-487e-b771-ab0c3d4be0c4" width="720">
-</p>
+<img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/6a170a58-6065-46bf-9f21-ca149b748d96" />
 
 ---
 
@@ -87,7 +85,7 @@ Useful for balancing:
 - manufacturability
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5754c925-3f07-4491-82cc-cb5a2b2a4281" width="780">
+  <img src="https://github.com/user-attachments/assets/4721ccc8-18a3-43fd-b63b-fd59afb3da72" width="980">
 </p>
 
 ---
@@ -118,7 +116,7 @@ Build your own reusable engineering database:
 The database becomes part of accumulated engineering experience.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20c2a53b-d821-4d89-a76b-70829bc3bf8c" width="900">
+  <img src="https://github.com/user-attachments/assets/12819f51-e873-4660-bff6-167df081d24b" width="900">
 </p>
 
 ---
